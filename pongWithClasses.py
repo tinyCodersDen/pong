@@ -1,7 +1,7 @@
 
 '''
  >> Pong Game with PyGame and Class
- >> Developed by : tinyCoder (Vihan)
+ >> Developed by : tinyCoder 
 
 '''
 import pygame
